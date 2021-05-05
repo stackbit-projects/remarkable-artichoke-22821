@@ -1,0 +1,36 @@
+title: L'Ami du peuple
+email: jcoenep@hotmail.com
+description: >
+  Journal politique impartial, <br> Par Mr. P. Marat auteur de l'Offrande a la
+  patrie, <br> du Moniteur et du Plan de Constitution, etc.
+tagline: vitam impendere vero
+location: Versailles
+date: true
+baseurl: ''
+url: ''
+author: Jean-Paul Marat
+google_analytics: UA-101394056-1
+twitter:
+  username: jdatap
+logo: /assets/logo.png
+lang: fr
+facebook:
+  app_id: 101766790448070
+social:
+  name: John Coene
+  links:
+    - 'https://twitter.com/jdatap'
+    - 'https://www.linkedin.com/in/johncoene'
+    - 'https://plus.google.com/109009224717674019651'
+    - 'https://github.com/JohnCoene'
+exclude:
+  - Gemfile
+  - Gemfile.lock
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+plugins_dir:
+  - jekyll-roman
+  - jekyll-seo-tag
